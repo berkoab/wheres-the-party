@@ -1,1 +1,3 @@
-# wheres-the-party
+# Wheres The Party
+
+Attempts to gather social gathering information from social media geographic locations such as Twitter, FourSquare, Meetup etc...
